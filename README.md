@@ -23,8 +23,6 @@ Pakistan · UTC+5
 
 ## Project highlights
 
-- **AI customer support platform:** Multi-tenant chat with tool-based order and return handling, agent handoff, a live dashboard, and an embeddable branded widget.
-- **HR management system:** Employee, attendance, leave, payroll, access control, and reporting workflows.
 - **UndrRight legal assistant:** AI-powered legal workflows with responsive interfaces and centralized application state.
 
 ## Technologies
