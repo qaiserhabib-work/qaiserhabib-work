@@ -42,7 +42,3 @@ Pakistan · UTC+5
 ## Education
 
 **B.S. in Software Engineering** · Minhaj University Lahore · 2017–2021
-
-## Get in touch
-
-[qaiserhabib6@gmail.com](mailto:qaiserhabib6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/qaisarhabib/)
