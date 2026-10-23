@@ -14,7 +14,6 @@ I build web products and AI-powered workflows across frontend, backend, APIs, an
 **Open to remote roles and contract projects.**<br>
 Pakistan · UTC+5
 
-<!-- [Email](mailto:qaiserhabib6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/qaisarhabib/) · [GitHub](https://github.com/qaisarhabib) -->
 
 ## Selected experience
 
