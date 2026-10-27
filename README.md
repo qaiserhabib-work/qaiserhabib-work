@@ -19,7 +19,7 @@ Pakistan · UTC+5
 
 - **Focus IT Services · Frontend Developer · 2025–present:** Build production React and Next.js features, integrate LLM services with application workflows, and improve performance with code splitting, lazy loading, and caching.
 - **Single Solution · Full-Stack Developer · 2023–2025:** Built and optimized full-stack applications, improved architecture and responsiveness, and contributed to AI-powered features and LLM workflows.
-- **SoftRobo · Frontend Developer Intern · 2022–2023:** Built responsive web interfaces with attention to accessibility and usability.
+- **SoftRobo · Frontend Developer · 2022–2023:** Built responsive web interfaces with attention to accessibility and usability.
 
 ## Project highlights
 
